@@ -1,18 +1,18 @@
 # vilmar moreira de souza
  ## ola, que tal um café!!!!!! 👋
 
-<img src="https://github.com/vilmar-moreira-souza/git/blob/master/tutoriais/IMG_20191202_231908426.jpg"  width="300" >
+<img src="./img/vilmar.jpg"  width="300" >
 
 
 
 
 
 [*gmail*](vilmarmoreira2010@gmail.com)
-<img src="https://github.com/vilmar-moreira-souza/git/blob/master/tutoriais/novo-logotipo-do-gmail-foto-cortesia-da-google-conteudo-categoria-nerd-7178871006.webp" height="24" width="48">
+<img src="./img/gmail.webp" height="24" width="48">
 
 
 [*linkedin*](https://www.linkedin.com/in/vilmarmsouza/)
-<img src="https://github.com/vilmar-moreira-souza/git/blob/master/tutoriais/linkedin.png" height="24" width="48" >
+<img src="./img/linkedin.png" height="24" width="48" >
 
 
 ####  estamos sempre em construção por aqui .
@@ -36,3 +36,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+vilmar
