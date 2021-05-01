@@ -17,7 +17,7 @@
 
 ####  estamos sempre em construção por aqui .
  
- ![homen letra](https://github.com/professorjosedeassis/Linguagem-C/blob/master/homem%20letra.gif)
+ <img src="https://github.com/vilmar-moreira-souza/vilmar-moreira-souza/blob/vilmar/png-transparent-programmer-computer-programming-computer-training-computer-computer-programming-brand.png" width="300" >
 
 
 
