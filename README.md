@@ -1,8 +1,22 @@
-# vilmar moreira de souza
- ## ola, que tal um café!!!!!! 👋
+#                  vilmar moreira de souza
+ 
 
-<img src="https://github.com/vilmar-moreira-souza/git/blob/master/tutoriais/IMG_20191202_231908426.jpg"  width="300" >
 
+ ### Engenharia da computação -Unicep, São carlos 
+ ### amante da tecnologia!
+ <img src="https://github.com/vilmar-moreira-souza/git/blob/master/tutoriais/IMG_20191202_231908426.jpg"  width="150" >
+ <P> traduzindo ideias em codigos.  </p>
+ <ul>
+  <li>  code</li>
+ <li>  café</li>
+ <li>   linux</li>
+ <li> jogos</li>
+ <li>musica</li>
+ <li>front-end</li>
+ <li>desmontar coisas  </li>
+ </ul>
+
+ <img src="https://github.com/vilmar-moreira-souza/vilmar-moreira-souza/blob/vilmar/png-transparent-programmer-computer-programming-computer-training-computer-computer-programming-brand.png" width="300" >
 
 
 
@@ -10,14 +24,13 @@
 [*gmail*](vilmarmoreira2010@gmail.com)
 <img src="https://github.com/vilmar-moreira-souza/git/blob/master/tutoriais/novo-logotipo-do-gmail-foto-cortesia-da-google-conteudo-categoria-nerd-7178871006.webp" height="24" width="48">
 
-
 [*linkedin*](https://www.linkedin.com/in/vilmarmsouza/)
 <img src="https://github.com/vilmar-moreira-souza/git/blob/master/tutoriais/linkedin.png" height="24" width="48" >
 
 
 ####  estamos sempre em construção por aqui .
  
- <img src="https://github.com/vilmar-moreira-souza/vilmar-moreira-souza/blob/vilmar/png-transparent-programmer-computer-programming-computer-training-computer-computer-programming-brand.png" width="300" >
+
 
 
 
